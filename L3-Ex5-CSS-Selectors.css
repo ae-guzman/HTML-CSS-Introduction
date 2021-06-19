@@ -12,4 +12,12 @@ p {
     font-size: 12px;
 }
 
+div {
+    padding: 10px 10px 10px 10px;
+}
+
 div#ex1 .test1 {font-style: italic; border: 1px solid green;}
+
+p.big {
+    line-height: 1.8;
+}
